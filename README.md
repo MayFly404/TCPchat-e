@@ -4,8 +4,6 @@ This is a simple tcp server and client made with go.
 ## Needed Info
 STILL IN DEVELOPMENT
 
-CURRENTLY LOCAL HOST ONLY (bummer, still in dev)
-
 ## Execute
 Make sure you have go installed.
 
